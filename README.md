@@ -1,5 +1,4 @@
-# 🧩 Link Puzzle Jigsaw Hewan Bebek untuk Kelas 2 SD 🦆
-https://puzzel.org/en/jigsaw/play?p=-OOQymHYylQvzhqg6vlG
+# 🧩 Proyek Puzzle Jigsaw Hewan Bebek untuk Kelas 2 SD 🦆
 
 > **Belajar sambil bermain!**  
 > Proyek ini dirancang untuk membantu siswa kelas 2 SD mengenal dunia hewan melalui permainan puzzle digital. Pada kesempatan ini, kita akan belajar tentang **bebek**, salah satu hewan yang sering kita temui di sekitar kita.
